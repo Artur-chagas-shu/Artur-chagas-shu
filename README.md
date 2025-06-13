@@ -2,7 +2,13 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Artur Chagas, tenho 24 anos. Atualmente, estudo programação Full Stack pela OneBitCode, enquanto curso Análise e Desenvolvimento de Sistemas na Faculdade Descomplica/UniAmérica.
+Olá, sou Artur Chagas, tenho 24 anos, e estou em constante evolução no campo da tecnologia e desenvolvimento de software. Atualmente, estudo programação Full Stack pela OneBitCode, onde tenho me especializado em desenvolvimento de sistemas web usando as principais tecnologias do mercado, como JavaScript, Node.js, React e Banco de Dados.
+
+Além disso, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Descomplica/UniAmérica, onde adquiro uma base sólida em estruturas de dados, algoritmos e lógica de programação, além de explorar conceitos fundamentais em engenharia de software e modelagem de sistemas.
+
+Tenho grande interesse em desenvolver soluções escaláveis e eficientes e sou apaixonado por resolver problemas complexos através de código. Ao longo da minha jornada, participei de projetos que envolvem desde a criação de APIs até o desenvolvimento de interfaces de usuário responsivas. Tenho habilidades em versionamento de código (Git/GitHub) e estou sempre buscando aprender mais sobre boas práticas de desenvolvimento, teste de software e integração contínua.
+
+Atualmente, busco expandir minha experiência com projetos práticos que me desafiem a aprimorar minhas habilidades de programação e colaborar com outros desenvolvedores. Tenho interesse em trabalhar com equipes dinâmicas e contribuir para projetos inovadores.
 
 <p align="left">
    <a href="https://github.com/Artur-chagas-shu?tab=followers">
