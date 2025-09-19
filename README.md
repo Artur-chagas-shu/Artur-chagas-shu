@@ -58,7 +58,14 @@ Atualmente, busco expandir minha experiência com projetos práticos que me desa
 
  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
-
+<img 
+    align="left" 
+    alt="Nodejs"
+    title="nodeJs" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)" 
+/>
 
 
 <img 
@@ -100,3 +107,6 @@ Atualmente, busco expandir minha experiência com projetos práticos que me desa
   />
 
 </p>
+
+
+
