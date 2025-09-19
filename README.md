@@ -64,7 +64,7 @@ Atualmente, busco expandir minha experiência com projetos práticos que me desa
     title="nodeJs" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/node/node-original.svg" 
+    src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" 
 />
 
 
