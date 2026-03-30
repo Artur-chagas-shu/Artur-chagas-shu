@@ -46,15 +46,6 @@ Busco constantemente evoluir minhas habilidades e contribuir em projetos inovado
 ---
 
 ## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Artur-chagas-shu&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Artur-chagas-shu&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artur-chagas-shu&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
   
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Artur-chagas-shu&theme=tokyonight&hide_border=true)
 
