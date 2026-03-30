@@ -1,29 +1,38 @@
-# 👨‍💻 Artur Chagas | Desenvolvedor FullStack
+# 👨‍💻 Artur Chagas | Desenvolvedor Full Stack
+
+<p align="center">
+  <a href="https://github.com/Artur-chagas-shu">
+    <img src="https://komarev.com/ghpvc/?username=Artur-chagas-shu&style=for-the-badge&color=blue"/>
+  </a>
+</p>
+
+---
 
 ## 🚀 Sobre mim
-Olá, sou **Artur Chagas**, tenho 25 anos e estou em constante evolução no campo da tecnologia e desenvolvimento de software.
 
-Atualmente, estudo programação **Full Stack pela OneBitCode**, onde tenho me especializado em desenvolvimento de sistemas web utilizando tecnologias modernas como:
+Olá! Sou **Artur Chagas**, tenho 25 anos e estou em constante evolução na área de tecnologia e desenvolvimento de software.
 
-- JavaScript
-- Node.js
-- React
-- Banco de Dados
+Atualmente estudo **Desenvolvimento Full Stack pela OneBitCode**, com foco na construção de aplicações web modernas utilizando:
 
-Além disso, estou cursando **Análise e Desenvolvimento de Sistemas** pela **Faculdade Descomplica/UniAmérica**, onde desenvolvo uma base sólida em:
+- JavaScript | TypeScript  
+- Node.js  
+- React  
+- Banco de Dados  
 
-- Estruturas de dados  
+Também curso **Análise e Desenvolvimento de Sistemas** pela **Descomplica/UniAmérica**, fortalecendo minha base em:
+
+- Estruturas de Dados  
 - Algoritmos  
-- Lógica de programação  
-- Engenharia de software  
-- Modelagem de sistemas  
+- Engenharia de Software  
+- Modelagem de Sistemas  
 
 ---
 
 ## 🧠 Objetivo Profissional
-Tenho grande interesse em desenvolver soluções **escaláveis e eficientes**, e sou apaixonado por resolver problemas complexos através de código.
 
-Busco constantemente evoluir minhas habilidades e contribuir em projetos inovadores, colaborando com equipes dinâmicas.
+Busco desenvolver soluções **escaláveis, eficientes e bem estruturadas**, com foco em qualidade de código e resolução de problemas reais.
+
+Tenho interesse em atuar em ambientes colaborativos, contribuindo com projetos inovadores e desafiadores.
 
 ---
 
@@ -55,6 +64,8 @@ Busco constantemente evoluir minhas habilidades e contribuir em projetos inovado
   <img src="https://streak-stats.demolab.com?user=Artur-chagas-shu&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
+
 ## 🐍 Contribuições
 
 <p align="center">
@@ -64,24 +75,27 @@ Busco constantemente evoluir minhas habilidades e contribuir em projetos inovado
 ---
 
 ## 📚 Experiência & Aprendizado
-Durante minha jornada, participei de projetos que envolvem:
 
-- 🔗 Desenvolvimento de APIs
-- 🎨 Interfaces responsivas
-- 🔄 Versionamento com Git/GitHub
-- 🧪 Boas práticas de desenvolvimento
-- ⚙️ Integração contínua
+Durante minha jornada, venho desenvolvendo projetos envolvendo:
+
+- 🔗 APIs REST  
+- 🎨 Interfaces responsivas  
+- 🔄 Versionamento com Git e GitHub  
+- 🧪 Boas práticas de desenvolvimento  
+- ⚙️ Integração contínua  
 
 ---
 
 ## 🎯 Atualmente
-Estou focado em expandir minha experiência com projetos práticos que me desafiem e contribuam para minha evolução como desenvolvedor.
+
+Focado em evoluir através de projetos práticos, consolidando conhecimentos e expandindo minha capacidade de entregar soluções completas.
 
 ---
 
 ## 📫 Contato
-- GitHub: https://github.com/Artur-chagas-shu
-- LinkedIn: https://linkedin.com/in/artur-chagas-665663355
+
+- GitHub: https://github.com/Artur-chagas-shu  
+- LinkedIn: https://linkedin.com/in/artur-chagas-665663355  
 
 ---
 
