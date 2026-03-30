@@ -48,8 +48,7 @@ Busco constantemente evoluir minhas habilidades e contribuir em projetos inovado
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-
- <a href="https://github.com/Artur-chagas-shu">
+  <a href="https://github.com/Artur-chagas-shu">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Artur-chagas-shu&show_icons=true&theme=tokyonight&hide_border=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artur-chagas-shu&layout=compact&theme=tokyonight&hide_border=true"/>
   </a>
